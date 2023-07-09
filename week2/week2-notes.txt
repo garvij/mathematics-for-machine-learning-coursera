@@ -1,0 +1,24 @@
+row operations/transformations
+1. row swapping
+2. scalar multiplication
+3. row addition
+
+rank of matrix = info held by the matrix/system of equations
+rank of matrix = number of pivots
+
+calculation of rank
+A is square matrix
+1. minor method
+ 1. if det(A) != 0 rank = order of A
+ 2. if det(A) == 0 rank = order of max possible non zero minor
+2. using echelon form
+
+echelon form
+1. all elements under pivot are 0
+
+reduced row echelon form
+1. each pivot is 1
+
+steps for converting to echelon form
+1. reduce element below first pivot to 0
+2. continue for all pivots

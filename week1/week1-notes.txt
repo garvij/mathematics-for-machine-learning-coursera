@@ -1,0 +1,13 @@
+equations of systems can be
+1. complete - non singular - unique solution - det != 0
+2. redundant - singular - infinite solutions - det == 0
+3. contradictory - singular - no solutions - det == 0
+
+constants dont matter for singularity
+
+* singular and singular matrices
+
+3 planes
+1. unique sol - single point
+2. no solution - all planes are parallel
+3. infinite solutions - common plane
