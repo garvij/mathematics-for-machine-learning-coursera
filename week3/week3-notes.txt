@@ -1,0 +1,17 @@
+dot product 
+1. orthogonal vectors = 0
+2. right side > 0
+3. left side  < 0
+
+
+a.b = a1b1 + a2b2 + a3b3
+
+
+
+
+u.u = u2
+u.v = uvcos(theta)
+
+A * inverse(A) = identity matrix
+inverse(A) exists only if matrix is singular 
+det(A) != 0
