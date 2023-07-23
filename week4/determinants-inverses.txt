@@ -1,0 +1,9 @@
+det(AB) = det(A) * det(B)
+
+inverse of a matrix
+
+
+invA = adjA/detA
+
+adjA = transpose of cofactor matrix of A
+
